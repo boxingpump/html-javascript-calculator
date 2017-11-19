@@ -1,2 +1,2 @@
 # html-javascript-calculator
-Beginner Html/Javascript code project
+Beginner html/Javascript code project
